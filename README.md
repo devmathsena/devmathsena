@@ -16,12 +16,12 @@ Construir aplicações que sejam intuitivas e eficientes, enquanto aprimoro meu 
 
 ## 🚀 Sobre mim  
 
-💡 Sempre explorando novas tecnologias.
+💡 Sempre explorando novas possibilidades.
 
 💼 Acompanhe meu portfólio aqui no GitHub!
 
 📚 Aprendendo atualmente desenvolvimento web full stack com JavaScript na [OneBitCode](https://onebitcode.com/).
 
-💪 Atleta de luta de braço na [Equipe Área 51](https://www.instagram.com/area51.equipe/)
+💪 Atleta de luta de braço na [Equipe Área 51](https://www.instagram.com/area51.equipe/).
 
 📩 Vamos conversar? [dev.matheussena@gmail.com](mailto:dev.matheussena@gmail.com)  
