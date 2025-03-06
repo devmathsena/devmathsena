@@ -1,6 +1,6 @@
-<h1 align="center">Olá! 👋 Sou Matheus Sena</h1>
+<h1 align="center">Olá! 👋 Sou Matheus Sena 😃</h1>
 <p align="center">
-  <b>Desenvolvedor Júnior | Apaixonado por tecnologia 🚀</b>
+  <b>Desenvolvedor Júnior | Apaixonado por programar 🚀</b>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@ Construir aplicações que sejam intuitivas e eficientes, enquanto aprimoro meu 
 
 💡 Sempre explorando novas possibilidades.
 
-💼 Acompanhe meu portfólio aqui no GitHub!
+💼 Acompanhe meu portfólio aqui, no GitHub!
 
-🔗 Tenha acesso ao meu [LinkedIn](https://www.linkedin.com/in/matheussena21/)
+🔗 Tenha acesso ao meu perfil completo no [LinkedIn](https://www.linkedin.com/in/matheussena21/).
 
 📚 Estudo desenvolvimento web full stack com JavaScript na [OneBitCode](https://onebitcode.com/).
 
