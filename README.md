@@ -20,7 +20,9 @@ Construir aplicações que sejam intuitivas e eficientes, enquanto aprimoro meu 
 
 💼 Acompanhe meu portfólio aqui no GitHub!
 
-📚 Aprendendo atualmente desenvolvimento web full stack com JavaScript na [OneBitCode](https://onebitcode.com/).
+🔗 Tenha acesso ao meu [LinkedIn](https://www.linkedin.com/in/matheussena21/)
+
+📚 Estudo desenvolvimento web full stack com JavaScript na [OneBitCode](https://onebitcode.com/).
 
 💪 Atleta de luta de braço na [Equipe Área 51](https://www.instagram.com/area51.equipe/).
 
