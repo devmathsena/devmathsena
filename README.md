@@ -14,6 +14,8 @@
 ## 🎯 Meu objetivo  
 Construir aplicações que sejam intuitivas e eficientes, enquanto aprimoro meu conhecimento em desenvolvimento web e APIs.
 
+Para então ingressar na carreira de Web Fullstack Developer s2
+
 ## 🚀 Sobre mim  
 
 💡 Sempre explorando novas possibilidades.
