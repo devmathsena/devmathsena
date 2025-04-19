@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Sou Matheus Sena 😃</h1>
 <p align="center">
-  <b>Desenvolvedor Júnior | Apaixonado por programar 🚀</b>
+  <b>Desenvolvedor Júnior | Apaixonado por programar! 🚀</b>
 </p>
 
 <p align="center">
