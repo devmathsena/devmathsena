@@ -28,4 +28,4 @@ Para então ingressar na tão sonhada carreira de Web Fullstack Developer <3
 
 💪 Atleta de luta de braço na [Equipe Área 51](https://www.instagram.com/area51.equipe/).
 
-📩 Vamos conversar? [dev.matheussena@gmail.com](mailto:dev.matheussena@gmail.com)  
+📩 Vamos bater um papo? [dev.matheussena@gmail.com](mailto:dev.matheussena@gmail.com)  
