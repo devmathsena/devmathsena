@@ -22,7 +22,7 @@ Para então ingressar na tão sonhada carreira de Web Fullstack Developer <3
 
 💼 Acompanhe meu portfólio aqui, no GitHub!
 
-🔗 Tenha acesso ao meu perfil completo no [LinkedIn](https://www.linkedin.com/in/matheussena21/).
+🔗 Acesse meu perfil completo no [LinkedIn](https://www.linkedin.com/in/matheussena21/).
 
 📚 Estudo desenvolvimento web full stack com JavaScript na [OneBitCode](https://onebitcode.com/).
 
