@@ -18,7 +18,7 @@ Para então ingressar na tão sonhada carreira de Web Fullstack Developer s2
 
 ## 🚀 Sobre mim  
 
-💡 Sempre explorando novas possibilidades.
+💡 Sempre explorando novas possibilidades e dasafios!
 
 💼 Acompanhe meu portfólio aqui, no GitHub!
 
