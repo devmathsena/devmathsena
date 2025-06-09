@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+## ⚠️ AVISO!
+Fui selecionado e atualmente estou participando do projeto CWI Crescer, estou em foco total nele, por enquanto meu GitHub está parado.
+
 ## 🎯 Meu objetivo  
 Construir aplicações que sejam intuitivas e eficientes, enquanto aprimoro meu conhecimento em desenvolvimento web e APIs ;)
 
